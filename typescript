@@ -1,0 +1,97 @@
+Script started on Sun 27 Oct 2019 04:17:18 AM EDT
+[?1034hbash-4.2$ ls
+CS262  helios_html  hermes_web	typescript
+bash-4.2$ mkdir cs110_unix
+bash-4.2$ s[Kls
+cs110_unix  CS262  helios_html	hermes_web  typescript
+bash-4.2$ cd cs110_unix
+bash-4.2$ ls
+bash-4.2$ git copy [K[K[K[Klpme[K[K[Kone https://github.com/GMU_[K-CS110/server_Main[K[K[K[Kmaintenance.git
+Cloning into 'server_maintenance'...
+remote: Enumerating objects: 31, done.[K
+remote: Total 31 (delta 0), reused 0 (delta 0), pack-reused 31[K
+Unpacking objects:   3% (1/31)   Unpacking objects:   6% (2/31)   Unpacking objects:   9% (3/31)   Unpacking objects:  12% (4/31)   Unpacking objects:  16% (5/31)   Unpacking objects:  19% (6/31)   Unpacking objects:  22% (7/31)   Unpacking objects:  25% (8/31)   Unpacking objects:  29% (9/31)   Unpacking objects:  32% (10/31)   Unpacking objects:  35% (11/31)   Unpacking objects:  38% (12/31)   Unpacking objects:  41% (13/31)   Unpacking objects:  45% (14/31)   Unpacking objects:  48% (15/31)   Unpacking objects:  51% (16/31)   Unpacking objects:  54% (17/31)   Unpacking objects:  58% (18/31)   Unpacking objects:  61% (19/31)   Unpacking objects:  64% (20/31)   Unpacking objects:  67% (21/31)   Unpacking objects:  70% (22/31)   Unpacking objects:  74% (23/31)   Unpacking objects:  77% (24/31)   Unpacking objects:  80% (25/31)   Unpacking objects:  83% (26/31)   Unpacking objects:  87% (27/31)   Unpacking objects:  90% (28/31)   Unpacking objects:  93% (29/31)   Unpacking objects:  96% (30/31)   Unpacking objects: 100% (31/31)   Unpacking objects: 100% (31/31), done.
+bash-4.2$ ls
+server_maintenance
+bash-4.2$ l[Kcd sere[Kver [K_maintenance
+bash-4.2$ ls
+ATTRIBUTION  LICENSE  logs  README.md
+bash-4.2$ touch report.txt
+bash-4.2$ ls
+ATTRIBUTION  LICENSE  logs  README.md  report.txt
+bash-4.2$ vim report.txt
+[?1049h[?1h=[2;1H▽[6n[1;1H  [1;1H[1;30r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[30;1H"report.txt" 0L, 0C[>c[2;1H[94m~                                                                                                                       [3;1H~                                                                                                                       [4;1H~                                                                                                                       [5;1H~                                                                                                                       [6;1H~                                                                                                                       [7;1H~                                                                                                                       [8;1H~                                                                                                                       [9;1H~                                                                                                                       [10;1H~                                                                                                                       [11;1H~                                                                                                                       [12;1H~                                                                                                                       [13;1H~                                                                                                                       [14;1H~                                                                                                                       [15;1H~                                                                                                                       [16;1H~                                                                                                                       [17;1H~                                                                                                                       [18;1H~                                                                                                                       [19;1H~                                                                                                                       [20;1H~                                                                                                                       [21;1H~                                                                                                                       [22;1H~                                                                                                                       [23;1H~                                                                                                                       [24;1H~                                                                                                                       [25;1H~                                                                                                                       [26;1H~                                                                                                                       [27;1H~                                                                                                                       [28;1H~                                                                                                                       [29;1H~                                                                                                                       [m[30;103H0,0-1[9CAll[1;1H[?12l[?25h[?25l[30;1H[1m-- INSERT --[m[30;14H[K[30;103H0,1[11CAll[1;1H[?12l[?25h[?25lt[30;103H1,2[1;2H[?12l[?25h[?25l[1;1H[K[30;105H1[1;1H[?12l[?25h[?25lt[30;105H2[1;2H[?12l[?25h[?25lc[30;105H3[1;3H[?12l[?25h[?25lhu[30;105H5[1;5H[?12l[?25h[?25lr[30;105H6[1;6H[?12l[?25h[?25lh[30;105H7[1;7H[?12l[?25h[?25l[1;6H[K[30;105H6[1;6H[?12l[?25h[?25lc[30;105H7[1;7H[?12l[?25h[?25lh[30;105H8[1;8H[?12l[?25h[?25l@[30;105H9[1;9H[?12l[?25h[?25lm[30;105H10[1;10H[?12l[?25h[?25la[30;106H1[1;11H[?12l[?25h[?25ls[30;106H2[1;12H[?12l[?25h[?25lo[30;106H3[1;13H[?12l[?25h[?25ln[30;106H4[1;14H[?12l[?25h[?25ll[30;106H5[1;15H[?12l[?25h[?25li[30;106H6[1;16H[?12l[?25h[?25lv[30;106H7[1;17H[?12l[?25h[?25le[30;106H8[1;18H[?12l[?25h[?25lg[30;106H9[1;19H[?12l[?25h[?25l[1;18H[K[30;106H8[1;18H[?12l[?25h[?25l.[30;106H9[1;19H[?12l[?25h[?25lg[30;105H20[1;20H[?12l[?25h[?25lm[30;106H1[1;21H[?12l[?25h[?25lu[30;106H2[1;22H[?12l[?25h[?25l.[30;106H3[1;23H[?12l[?25h[?25le[30;106H4[1;24H[?12l[?25h[?25ld[30;106H5[1;25H[?12l[?25h[?25lu[30;106H6[1;26H[?12l[?25h[?25l,[30;106H7[1;27H[?12l[?25h[?25l[30;106H8[1;28H[?12l[?25h[?25lG[30;106H9[1;29H[?12l[?25h[?25l0[30;105H30[1;30H[?12l[?25h[?25l1[30;106H1[1;31H[?12l[?25h[?25l1[30;106H2[1;32H[?12l[?25h[?25l2[30;106H3[1;33H[?12l[?25h[?25l7[30;106H4[1;34H[?12l[?25h[?25l1[30;106H5[1;35H[?12l[?25h[?25l1[30;106H6[1;36H[?12l[?25h[?25l7[30;106H7[1;37H[?12l[?25h[30;1H[K[1;36H[?25l[30;103H1,36[10CAll[1;36H[?12l[?25h[?25l[30;103H[K[30;1H:[?12l[?25hw[?25l[?12l[?25hq[?25l[?12l[?25h[?25l"report.txt" 1L, 37C written
+[?1l>[?12l[?25h[?1049lbash-4.2$ cd[K[Kcd logs
+bash-4.2$ ls
+20180910  20180911  20180912  20180913	current
+bash-4.2$ rm -r current
+bash-4.2$ ls
+20180910  20180911  20180912  20180913
+bash-4.2$ cp -r 20180910 current
+bash-4.2$ ls
+20180910  20180911  20180912  20180913	current
+bash-4.2$ cd current
+bash-4.2$ ls
+Cluster1A.dat  Cluster1B.dat  Cluster2.dat  Cluster3.dat
+bash-4.2$ grep "errpr[K[K[K[K[KError"*[K *[K[K*[K * >> ../../report.txt
+bash-4.2$ cd ..
+bash-4.2$ ls
+20180910  20180911  20180912  20180913	current
+bash-4.2$ find . -name observations.dat
+./20180912/observations.dat
+bash-4.2$ cd 20180912
+bash-4.2$ ls
+Cluster1A.dat  Cluster1B.dat  Cluster2.dat  Cluster3.dat  observations.dat
+bash-4.2$ cat obsera[Kvations.dat >> ../../report.txt
+bash-4.2$ cd ..
+bash-4.2$ ls
+20180910  20180911  20180912  20180913	current
+bash-4.2$ rm -r current
+bash-4.2$ ls
+20180910  20180911  20180912  20180913
+bash-4.2$ grap [K[K[Kep "Safaro[Ki" | [1@*[1@ [C[C[C[Cwc -l >> ../../report.txt[C[1@-[1@r[1@ [C[C[C[C[C[C[C[C[C[C[C
+bash-4.2$ ls
+20180910  20180911  20180912  20180913
+bash-4.2$ cd ..
+bash-4.2$ ls
+ATTRIBUTION  LICENSE  logs  README.md  report.txt
+bash-4.2$ vim rep[K[K[K[K[K[K[Kcat report.txt
+tchurch@masonlive.gmu.edu, G01127117
+Cluster1B.dat:Error - - eth0 Disconnected.  Detected at 10/Sep/2018:15:35:43
+Cluster1B.dat:Error - - eth0 Connected.  No Internet Access. Detected at 10/Sep/2018:15:37:58
+Apparently neutral's protest is thoroughly discounted and ignored.  Isman hard hit.  Blockade issue affects pretext for embargo on by products, ejecting suets and vegetable oils.
+bash-4.2$ ls
+ATTRIBUTION  LICENSE  logs  README.md  report.txt
+bash-4.2$ cd logs
+bash-4.2$ ls
+20180910  20180911  20180912  20180913
+bash-4.2$ lscd logsls[Kcat report.txt[C[C[C[C[C[C[C[C[C[Cls[Kcd ..[3Plsgrep -r "Safari" * | wc -l >> ../../report.txt[C[1P[1P[1@.[1P[1P[1@.[1@ 
+bash-4.2$ cd ..
+bash-4.2$ ls
+ATTRIBUTION  LICENSE  logs  README.md  report.txt
+bash-4.2$ cat report.txt
+tchurch@masonlive.gmu.edu, G01127117
+Cluster1B.dat:Error - - eth0 Disconnected.  Detected at 10/Sep/2018:15:35:43
+Cluster1B.dat:Error - - eth0 Connected.  No Internet Access. Detected at 10/Sep/2018:15:37:58
+Apparently neutral's protest is thoroughly discounted and ignored.  Isman hard hit.  Blockade issue affects pretext for embargo on by products, ejecting suets and vegetable oils.
+bash-4.2$ wa[K[Kw[Kwa[K[Kvim report.txt
+[?1049h[?1h=[2;1H▽[6n[1;1H  [1;1H[1;30r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[30;1H"report.txt" 4L, 387C[>c[1;1Htchurch@masonlive.gmu.edu, G01127117
+Cluster1B.dat:Error - - eth0 Disconnected.  Detected at 10/Sep/2018:15:35:43
+Cluster1B.dat:Error - - eth0 Connected.  No Internet Access. Detected at 10/Sep/2018:15:37:58
+Apparently neutral's protest is thoroughly discounted and ignored.  Isman hard hit.  Blockade issue affects pretext for  [5;1Hembargo on by products, ejecting suets and vegetable oils.
+[94m~                                                                                                                       [7;1H~                                                                                                                       [8;1H~                                                                                                                       [9;1H~                                                                                                                       [10;1H~                                                                                                                       [11;1H~                                                                                                                       [12;1H~                                                                                                                       [13;1H~                                                                                                                       [14;1H~                                                                                                                       [15;1H~                                                                                                                       [16;1H~                                                                                                                       [17;1H~                                                                                                                       [18;1H~                                                                                                                       [19;1H~                                                                                                                       [20;1H~                                                                                                                       [21;1H~                                                                                                                       [22;1H~                                                                                                                       [23;1H~                                                                                                                       [24;1H~                                                                                                                       [25;1H~                                                                                                                       [26;1H~                                                                                                                       [27;1H~                                                                                                                       [28;1H~                                                                                                                       [29;1H~                                                                                                                       [m[30;103H1,1[11CAll[1;1H[?12l[?25h[?25l[30;1H[K[30;1H:[?12l[?25hq[?25l[?12l[?25h[?25l[30;1H[K[30;1H[?1l>[?12l[?25h[?1049lbash-4.2$ cd logs
+bash-4.2$ ls
+20180910  20180911  20180912  20180913
+bash-4.2$ lscd logsvim report.txt[C[C[C[C[C[C[C[C[C[Ccat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd ..grep -r "Safari". | wc -l >> ../../report.txt[C[C[C[C[C[C[C[C[C[Cls[Kgrep -r "Safari". | wc -l >> ../../report.txt[C[C[C[C[C[C[C[C[C[C[C[C[1Preport.txt[1Preport.txt[1Preport.txt
+bash-4.2$ ls[K[Kcd ..
+bash-4.2$ ls
+ATTRIBUTION  LICENSE  logs  README.md  report.txt
+bash-4.2$ cat report.txt
+tchurch@masonlive.gmu.edu, G01127117
+Cluster1B.dat:Error - - eth0 Disconnected.  Detected at 10/Sep/2018:15:35:43
+Cluster1B.dat:Error - - eth0 Connected.  No Internet Access. Detected at 10/Sep/2018:15:37:58
+Apparently neutral's protest is thoroughly discounted and ignored.  Isman hard hit.  Blockade issue affects pretext for embargo on by products, ejecting suets and vegetable oils.
+280
+bash-4.2$ exit
+
+Script done on Sun 27 Oct 2019 04:34:19 AM EDT
